@@ -4,7 +4,7 @@ Author:         Joshua DeLawter-Gourlay
 Description:    This is a program that calls the Agify API that when queried with a name, returns a guestimate of your age and
                 the number of times that word has been queried. The main purpose of the API is the game guessing mechanic, but
                 I propose we should turn it into a game. The API has been used so many times that even things like my own last
-                name ('Gourlay') has been queried 5 times. My challenge to you is to find the highest and lowest queries of real
+                name ('Gourlay') has been queried 4 times. My challenge to you is to find the highest and lowest queries of real
                 objects or names that you can.
 '''
 

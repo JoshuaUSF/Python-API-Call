@@ -1,0 +1,13 @@
+This is where I will post and keep track of any changes I might want to make in the future.
+
+- Update scores to save top 5 results
+    Reason: This would be very cool. The game is fun and I'm incredibly proud of it, but this would give it far more depth
+
+- Update how scores are displayed
+    Reason: The aestetics on this could be polished a lot. This would be a welcome change.
+
+- Integrate with Postgres to save highest found scores of all-time
+    Reason: This would be a really cool way to display my ability to use Postgres.
+
+- Integrate with web development to extend project
+    Reason: Integrating any project with web development is always a really big goal of mine.
