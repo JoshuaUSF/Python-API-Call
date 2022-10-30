@@ -1,0 +1,19 @@
+To run this project you will need to have Python3 on your device and to install the requests module. 
+
+To install requests on:
+
+    1). Windows
+        python -m pip install requests
+    
+    2). Linux (preferred)
+        pip install requests
+
+    3). Mac OS
+        3.1). Install pip
+            sudo easy_install pip
+            sudo pip install --upgrade pip
+        3.2). Install requests
+            pip install requests
+
+    Credit for my learning goes to: https://www.geeksforgeeks.org/how-to-install-requests-in-python-for-windows-linux-mac/
+    Reference their guide if you want to learn more!
